@@ -1,1 +1,1 @@
-Developed a web application with real-time messaging, profile viewing, and message liking features using HTML/CSS, JavaScript, and Python with Flask. Initially used TCP protocols for messaging, then transitioned to WebSocket for faster, full-duplex communication. Ran test cases using Docker.
+Web application with real-time messaging, profile viewing, and message liking features using HTML/CSS, JavaScript, and Python with Flask. Initially used TCP protocols for messaging, then transitioned to WebSocket for faster, full-duplex communication. Ran test cases using Docker.
